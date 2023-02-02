@@ -1,1 +1,1 @@
-print("Hello, família!!! Cês tão bão?")
+print("Hello, world")
